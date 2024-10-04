@@ -1,39 +1,4 @@
 @charset "UTF8";
 *{
-
     margin: 0px;
-}
-header{
-    background-color: black;
-    text-align: center;
-    color: white;
-    margin: 30px solid black;
-    padding: 50px;
-    font-size: x-large;
-}
-#primeiro{
-    background-color: white;
-    width: 100%;
-    padding: 30px;
-    font-size: larger;
-    position: absolute;
-
-    left: 1%;
-    top: 30%;
-    transform: (50%, 20%);
-}
-#container{
-    background-image: url(imagens/background001.jpg);
-    background-size: 100% 100%;
-    background-position: relative;
-    height: 70vh;
-    padding: 10px;
-    background-color: transparent;
-}
-#segundo{
-    background-color: white;
-    width: 600px;
-    padding: 30px;
-    font-size: larger;
-    word-spacing: 1em;
 }
